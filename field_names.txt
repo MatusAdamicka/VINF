@@ -1,0 +1,9 @@
+Name
+Summary
+Generic Name
+DrugBank Accession Number
+Background
+Type
+Groups
+Indication
+Pharmacodynamics
